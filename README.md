@@ -10,6 +10,7 @@ As a developer time manangment is key to success and punctuation. Creating this 
 ## Screenshot
 
 ## Deploy
+https://mariayconstanza.github.io/daily-scheduler/
 
 ## Licenses
 N/A
