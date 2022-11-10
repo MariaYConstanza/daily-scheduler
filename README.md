@@ -8,6 +8,7 @@ As a developer time manangment is key to success and punctuation. Creating this 
 - M3schools
 
 ## Screenshot
+![daily schedule](https://user-images.githubusercontent.com/112887914/201225833-98229fc9-94ad-49cd-865a-bbba1d890af3.png)
 
 ## Deploy
 https://mariayconstanza.github.io/daily-scheduler/
