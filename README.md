@@ -14,4 +14,4 @@ As a developer time manangment is key to success and punctuation. Creating this 
 https://mariayconstanza.github.io/daily-scheduler/
 
 ## Licenses
-N/A
+Copyright https://github.com/MariaYConstanza/daily-scheduler All Rights Reserved
